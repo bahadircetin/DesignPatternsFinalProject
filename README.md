@@ -1,7 +1,7 @@
 # DesignPatternsFinalProject
 
 ## Project Class Diagram
-
+![Project2 Class Diagram](https://user-images.githubusercontent.com/34353055/128348394-d6663df0-0ab9-40bd-b923-f651c6c4d237.png)
 ## Project Design Description
 
 In our project, we designed a combat simulator we have 3 different soldier types which are
